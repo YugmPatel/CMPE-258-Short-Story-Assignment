@@ -23,8 +23,7 @@ The survey examines how GFMs effectively utilize both structural information and
 - **Description:** A detailed article explaining Graph Foundation Models for recommendation systems, including visualizations and examples.
 
 ### 2. Presentation Slides
-- **File:** [GFM_Recommendation_Slides.pdf](./GFM_Recommendation_Slides.pdf)
-- **SlideShare Link:** [Graph Foundation Models for Recommendation](https://www.slideshare.net/YugmPatel/graph-foundation-models-for-recommendation)
+- **SlideShare Link:** [Graph Foundation Models for Recommendation](https://www.slideshare.net/slideshow/graph-foundation-models-for-recommendation-a-comprehensive-survey/278869421)
 - **Description:** A comprehensive slide deck (22 slides) explaining the key concepts, taxonomy, and future directions of GFM-based recommender systems.
 
 ### 3. Video Presentation
